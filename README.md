@@ -6,7 +6,7 @@ Solar Micro Center
 - batteries
 - constuction
 - operation & observation
-- data graph NI&AI
+- data graph NI & AI
 - name it....
 
 ## useful links
