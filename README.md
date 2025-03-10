@@ -1,4 +1,4 @@
-# solar-mc
+# SOLAR-MC concept
 Solar Micro Center
 - station
 - pannels
@@ -7,9 +7,14 @@ Solar Micro Center
 - constuction
 - operation & observation
 - data graph NI & AI
-- name it....
+- pending features....
 
-## useful links
+# SOLAR-MC HALFER - 15kW
+https://docs.google.com/spreadsheets/d/1mqfkED4OwerDw-mtxhQdCsf0YqSvQEAy6HXOTAspKa4/edit?usp=sharing *
+
+*request access to view 
+
+## item (quantity)
 ### Battery Growatt APX 5.0P-B1 (x3)
 https://pcshop.bg/solarni-produkti/komponenti-invertori/growatt-apx-50pb1?_gl=1*cpxqhn*_up*MQ..*_ga*ODE4Mjk3MjE3LjE3MzkyODc1ODE.*_ga_CN7JY7GCPV*MTczOTI4NzU4MC4xLjEuMTczOTI4NzY1MC4wLjAuMA..*_ga_G4SKXV5JR5*MTczOTI4NzU4MC4xLjEuMTczOTI4NzY1MC4wLjAuMA
 ### Growatt APX 98034-P2 (x1)
